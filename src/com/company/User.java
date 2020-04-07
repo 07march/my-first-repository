@@ -6,6 +6,5 @@ public class User {
 
     public void voice(){
         System.out.println("Hello World");
-        System.out.println("Hello");
     }
 }
