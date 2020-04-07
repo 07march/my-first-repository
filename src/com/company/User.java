@@ -5,6 +5,7 @@ public class User {
     private String name;
 
     public void voice(){
+        System.out.println("Hello World");
         System.out.println("Hello");
     }
 }
